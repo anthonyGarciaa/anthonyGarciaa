@@ -1,4 +1,4 @@
-# I am a passionate Latin American web developer
+# I am a passionate Latin American web developer 🧑🏻‍💻
 
 ### This is my Stack⬇️
 
