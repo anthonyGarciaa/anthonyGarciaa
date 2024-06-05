@@ -1,7 +1,5 @@
 # I am a passionate Latin American web developer 🧑🏻‍💻
 
-### This is my Stack⬇️
-
 ![Stack](./stack.png)
 
 
